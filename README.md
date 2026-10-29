@@ -75,7 +75,7 @@ Additional machines can be added to the same virtual network in future projects.
 | 🌍 DNS Server | 8.8.8.8 |
 | 🔎 Traffic analysis | Wireshark |
 
----
+--
 
 # 🪜 Lab Setup Procedure
 
