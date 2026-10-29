@@ -47,9 +47,8 @@ The lab provides an isolated environment for cybersecurity learning. It can be u
 - VoIP call analysis
 - Testing connectivity and firewall rules
 
-⚠️ **Important:** This lab must only be used on systems that I own or have permission to test. All traffic analysed in the Wireshark section comes from training labs.
 
----
+
 
 ## 🏗️ Lab Architecture
 
@@ -298,13 +297,11 @@ This laboratory is intended strictly for educational purposes. The traffic captu
 
 # 👤 Author
 
-**[Your full name]**
-Cybersecurity at NetworkWalks, [your batch or cohort code]
+**OZIOKO MARY UCHENNA**
+ID: **NW-084-001**
 
-LinkedIn: [paste your LinkedIn profile link]
+LinkedIn: www.linkedin.com/in/ozioko-uchenna-2bb94435
 
----
 
-## 📌 Project Information
 
 **Program Name:** Cybersecurity at NetworkWalks | **Week:** 01 | **Project:** Cybersecurity Lab Setup and Wireshark SOC Labs | **Repository:** GitHub
